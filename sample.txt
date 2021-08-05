@@ -1,1 +1,2 @@
 This is my first git practice file
+This is updated code means second version
